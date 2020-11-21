@@ -1,3 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/wowchemy-hugo-modules
 	url = https://github.com/jakkdu/wowchemy-hugo-modules.git
+[submodule "public"]
+	path = public
+	url = git://github.com/kaist-s4/kaist-s4.github.io
+	branch = publish
