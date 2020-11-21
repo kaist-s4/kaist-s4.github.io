@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taesoo Kim | S4Lab</title>
+    <link>/author/taesoo-kim/</link>
+      <atom:link href="/author/taesoo-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taesoo Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Taesoo Kim</title>
+      <link>/author/taesoo-kim/</link>
+    </image>
+    
+    <item>
+      <title>Preventing Use-After-Free Attacks with Fast Forward Allocation (to appear)</title>
+      <link>/publication/wickman-ffmalloc/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wickman-ffmalloc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Techniques to Systematically Discover New Heap Exploitation Primitives</title>
+      <link>/publication/yun-archeap/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yun-archeap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compromising the macOS kernel through Safari by chaining six vulnerabilities</title>
+      <link>/publication/jin-pwn-2-own-2020-safari/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jin-pwn-2-own-2020-safari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzing JavaScript Engines with Aspect-preserving Mutation</title>
+      <link>/publication/park-die/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/park-die/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing</title>
+      <link>/publication/yun-qsym/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/yun-qsym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AVPASS: Leaking and Bypassing Antivirus Detection Model Automatically</title>
+      <link>/publication/jung-avpass/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jung-avpass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems</title>
+      <link>/publication/kim-cab-fuzz/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-cab-fuzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APISan: Sanitizing API Usages through Semantic Cross-checking</title>
+      <link>/publication/yun-apisan/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/yun-apisan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HDFI: Hardware-Assisted Data-Fow Isolation</title>
+      <link>/publication/song-hdfi/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/song-hdfi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
