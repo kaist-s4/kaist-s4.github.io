@@ -17,6 +17,5 @@ highlight_name: true
 user_groups:
 - Group Leaders
 
-external_link: http://jakkdu.github.io/
-picture: /media/people/insu.jpg
+external_link: http://insuyun.github.io/
 ---
