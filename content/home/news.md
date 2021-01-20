@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -13,7 +13,7 @@ headless: true
 weight: 15
 
 title: News
-subtitle:
 
 ---
 
+* [01/20/2021] BaseSpec is accepted to [NDSS'21](https://www.ndss-symposium.org/ndss2021/)
