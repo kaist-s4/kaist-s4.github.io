@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yongdae Kim | S4Lab</title>
-    <link>https://kaist-s4.github.io/author/yongdae-kim/</link>
-      <atom:link href="https://kaist-s4.github.io/author/yongdae-kim/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yongdae Kim</description>
+    <title>Eunsoo Kim* | S4Lab</title>
+    <link>https://kaist-s4.github.io/author/eunsoo-kim/</link>
+      <atom:link href="https://kaist-s4.github.io/author/eunsoo-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eunsoo Kim*</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kaist-s4.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Yongdae Kim</title>
-      <link>https://kaist-s4.github.io/author/yongdae-kim/</link>
+      <title>Eunsoo Kim*</title>
+      <link>https://kaist-s4.github.io/author/eunsoo-kim/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://kaist-s4.github.io/publication/kim-basespec/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://kaist-s4.github.io/publication/kim-basespec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analyzing Security of Korean USIM-based PKI Certificate Service</title>
-      <link>https://kaist-s4.github.io/publication/park-pki/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/park-pki/</guid>
       <description></description>
     </item>
     
