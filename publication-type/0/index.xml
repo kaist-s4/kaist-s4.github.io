@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | S4Lab</title>
-    <link>/publication-type/0/</link>
-      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kaist-s4.github.io/publication-type/0/</link>
+      <atom:link href="https://kaist-s4.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kaist-s4.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
-      <link>/publication-type/0/</link>
+      <link>https://kaist-s4.github.io/publication-type/0/</link>
     </image>
     
     <item>
       <title>Preventing Use-After-Free Attacks with Fast Forward Allocation (to appear)</title>
-      <link>/publication/wickman-ffmalloc/</link>
+      <link>https://kaist-s4.github.io/publication/wickman-ffmalloc/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/wickman-ffmalloc/</guid>
+      <guid>https://kaist-s4.github.io/publication/wickman-ffmalloc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Techniques to Systematically Discover New Heap Exploitation Primitives</title>
-      <link>/publication/yun-archeap/</link>
+      <link>https://kaist-s4.github.io/publication/yun-archeap/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/yun-archeap/</guid>
+      <guid>https://kaist-s4.github.io/publication/yun-archeap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compromising the macOS kernel through Safari by chaining six vulnerabilities</title>
-      <link>/publication/jin-pwn-2-own-2020-safari/</link>
+      <link>https://kaist-s4.github.io/publication/jin-pwn-2-own-2020-safari/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jin-pwn-2-own-2020-safari/</guid>
+      <guid>https://kaist-s4.github.io/publication/jin-pwn-2-own-2020-safari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fuzzing JavaScript Engines with Aspect-preserving Mutation</title>
-      <link>/publication/park-die/</link>
+      <link>https://kaist-s4.github.io/publication/park-die/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/park-die/</guid>
+      <guid>https://kaist-s4.github.io/publication/park-die/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REPT: Reverse Debugging of Failures in Deployed Software</title>
-      <link>/publication/cui-rept/</link>
+      <link>https://kaist-s4.github.io/publication/cui-rept/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/cui-rept/</guid>
+      <guid>https://kaist-s4.github.io/publication/cui-rept/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing</title>
-      <link>/publication/yun-qsym/</link>
+      <link>https://kaist-s4.github.io/publication/yun-qsym/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/yun-qsym/</guid>
+      <guid>https://kaist-s4.github.io/publication/yun-qsym/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AVPASS: Leaking and Bypassing Antivirus Detection Model Automatically</title>
-      <link>/publication/jung-avpass/</link>
+      <link>https://kaist-s4.github.io/publication/jung-avpass/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/jung-avpass/</guid>
+      <guid>https://kaist-s4.github.io/publication/jung-avpass/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems</title>
-      <link>/publication/kim-cab-fuzz/</link>
+      <link>https://kaist-s4.github.io/publication/kim-cab-fuzz/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/kim-cab-fuzz/</guid>
+      <guid>https://kaist-s4.github.io/publication/kim-cab-fuzz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>APISan: Sanitizing API Usages through Semantic Cross-checking</title>
-      <link>/publication/yun-apisan/</link>
+      <link>https://kaist-s4.github.io/publication/yun-apisan/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/yun-apisan/</guid>
+      <guid>https://kaist-s4.github.io/publication/yun-apisan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HDFI: Hardware-Assisted Data-Fow Isolation</title>
-      <link>/publication/song-hdfi/</link>
+      <link>https://kaist-s4.github.io/publication/song-hdfi/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/song-hdfi/</guid>
+      <guid>https://kaist-s4.github.io/publication/song-hdfi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyzing Security of Korean USIM-based PKI Certificate Service</title>
-      <link>/publication/park-pki/</link>
+      <link>https://kaist-s4.github.io/publication/park-pki/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/park-pki/</guid>
+      <guid>https://kaist-s4.github.io/publication/park-pki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kargus: A Highly-scalable Software-based Intrusion Detection System</title>
-      <link>/publication/jamshed-kargus/</link>
+      <link>https://kaist-s4.github.io/publication/jamshed-kargus/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/jamshed-kargus/</guid>
+      <guid>https://kaist-s4.github.io/publication/jamshed-kargus/</guid>
       <description></description>
     </item>
     

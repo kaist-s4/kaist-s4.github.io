@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sangwoo Moon | S4Lab</title>
-    <link>/author/sangwoo-moon/</link>
-      <atom:link href="/author/sangwoo-moon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kaist-s4.github.io/author/sangwoo-moon/</link>
+      <atom:link href="https://kaist-s4.github.io/author/sangwoo-moon/index.xml" rel="self" type="application/rss+xml" />
     <description>Sangwoo Moon</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kaist-s4.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sangwoo Moon</title>
-      <link>/author/sangwoo-moon/</link>
+      <link>https://kaist-s4.github.io/author/sangwoo-moon/</link>
     </image>
     
     <item>
       <title>Kargus: A Highly-scalable Software-based Intrusion Detection System</title>
-      <link>/publication/jamshed-kargus/</link>
+      <link>https://kaist-s4.github.io/publication/jamshed-kargus/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/jamshed-kargus/</guid>
+      <guid>https://kaist-s4.github.io/publication/jamshed-kargus/</guid>
       <description></description>
     </item>
     
