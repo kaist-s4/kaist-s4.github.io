@@ -12,8 +12,8 @@ authors:
 - Yongdae Kim
 tags: []
 categories: []
-date: -01-01
-lastmod: 2021-01-20T11:46:11+09:00
+date: '2021-02-01'
+lastmod: 2021-01-20T12:00:28+09:00
 featured: false
 draft: false
 
@@ -31,9 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-20T02:46:11.067101Z'
+publishDate: '2021-01-20T03:02:47.728840Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: ''
+publication: '*Proceedings of the 2021  Annual Network and Distributed System Security
+  Symposium (NDSS)*'
 ---
