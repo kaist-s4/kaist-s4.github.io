@@ -88,12 +88,12 @@ show_related = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "insu@gatech.edu"
+email = "insuyun@kaist.ac.kr"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "251 10th Street NW", city = "Atlanta", region = "GA", postcode = "30318", country = "United States", country_code = "US"}
+address = {street = "Room 909, N1, Korea Advanced Institute of Science and Technology (KAIST)", city = "Daejeon", country = "South Korea", country_code = "KR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
