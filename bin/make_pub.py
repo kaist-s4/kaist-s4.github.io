@@ -46,7 +46,7 @@ def read_bib():
         if url:
             del entry['url']
 
-        parse_bibtex_entry(entry, overwrite=True)
+        parse_bibtex_entry(entry)
 
         bundle_path = f"content/{pub_dir}/{slugify(entry['ID'])}"
         markdown_path = os.path.join(bundle_path, "index.md")
