@@ -20,7 +20,7 @@ Please add your profile in `content/author`.
 Modify `content/home/news.md`.
 
 ## Make it public
-** Check again before you run this command **
+**Check again before you run this command**
 ```
 $ ./publish.sh
 ```
