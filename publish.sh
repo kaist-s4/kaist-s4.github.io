@@ -2,7 +2,7 @@
 
 if [ ! -e public/.git ]; then
   rm -rf public
-  git clone -b publish git@github.com:kaist-s4/kaist-s4.github.io.git public
+  git clone -b publish git@github.com:kaist-hacking/kaist-hacking.github.io.git public
 fi
 
 hugo

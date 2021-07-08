@@ -1,4 +1,4 @@
-# kaist-s4.github.io
+# kaist-hacking.github.io
 
 ## Setup environment
 ```sh
