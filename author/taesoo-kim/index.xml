@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taesoo Kim | Hacking Lab</title>
-    <link>https://kaist-s4.github.io/author/taesoo-kim/</link>
-      <atom:link href="https://kaist-s4.github.io/author/taesoo-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kaist-hacking.github.io/author/taesoo-kim/</link>
+      <atom:link href="https://kaist-hacking.github.io/author/taesoo-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Taesoo Kim</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kaist-s4.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kaist-hacking.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Taesoo Kim</title>
-      <link>https://kaist-s4.github.io/author/taesoo-kim/</link>
+      <link>https://kaist-hacking.github.io/author/taesoo-kim/</link>
     </image>
     
     <item>
       <title>Preventing Use-After-Free Attacks with Fast Forward Allocation (to appear)</title>
-      <link>https://kaist-s4.github.io/publication/wickman-ffmalloc/</link>
+      <link>https://kaist-hacking.github.io/publication/wickman-ffmalloc/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/wickman-ffmalloc/</guid>
+      <guid>https://kaist-hacking.github.io/publication/wickman-ffmalloc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Techniques to Systematically Discover New Heap Exploitation Primitives</title>
-      <link>https://kaist-s4.github.io/publication/yun-archeap/</link>
+      <link>https://kaist-hacking.github.io/publication/yun-archeap/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/yun-archeap/</guid>
+      <guid>https://kaist-hacking.github.io/publication/yun-archeap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compromising the macOS kernel through Safari by chaining six vulnerabilities</title>
-      <link>https://kaist-s4.github.io/publication/jin-pwn-2-own-2020-safari/</link>
+      <link>https://kaist-hacking.github.io/publication/jin-pwn-2-own-2020-safari/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/jin-pwn-2-own-2020-safari/</guid>
+      <guid>https://kaist-hacking.github.io/publication/jin-pwn-2-own-2020-safari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fuzzing JavaScript Engines with Aspect-preserving Mutation</title>
-      <link>https://kaist-s4.github.io/publication/park-die/</link>
+      <link>https://kaist-hacking.github.io/publication/park-die/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/park-die/</guid>
+      <guid>https://kaist-hacking.github.io/publication/park-die/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing</title>
-      <link>https://kaist-s4.github.io/publication/yun-qsym/</link>
+      <link>https://kaist-hacking.github.io/publication/yun-qsym/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/yun-qsym/</guid>
+      <guid>https://kaist-hacking.github.io/publication/yun-qsym/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AVPASS: Leaking and Bypassing Antivirus Detection Model Automatically</title>
-      <link>https://kaist-s4.github.io/publication/jung-avpass/</link>
+      <link>https://kaist-hacking.github.io/publication/jung-avpass/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/jung-avpass/</guid>
+      <guid>https://kaist-hacking.github.io/publication/jung-avpass/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems</title>
-      <link>https://kaist-s4.github.io/publication/kim-cab-fuzz/</link>
+      <link>https://kaist-hacking.github.io/publication/kim-cab-fuzz/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/kim-cab-fuzz/</guid>
+      <guid>https://kaist-hacking.github.io/publication/kim-cab-fuzz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>APISan: Sanitizing API Usages through Semantic Cross-checking</title>
-      <link>https://kaist-s4.github.io/publication/yun-apisan/</link>
+      <link>https://kaist-hacking.github.io/publication/yun-apisan/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/yun-apisan/</guid>
+      <guid>https://kaist-hacking.github.io/publication/yun-apisan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HDFI: Hardware-Assisted Data-Fow Isolation</title>
-      <link>https://kaist-s4.github.io/publication/song-hdfi/</link>
+      <link>https://kaist-hacking.github.io/publication/song-hdfi/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/song-hdfi/</guid>
+      <guid>https://kaist-hacking.github.io/publication/song-hdfi/</guid>
       <description></description>
     </item>
     

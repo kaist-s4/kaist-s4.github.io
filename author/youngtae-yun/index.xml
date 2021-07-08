@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Youngtae Yun | Hacking Lab</title>
-    <link>https://kaist-s4.github.io/author/youngtae-yun/</link>
-      <atom:link href="https://kaist-s4.github.io/author/youngtae-yun/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kaist-hacking.github.io/author/youngtae-yun/</link>
+      <atom:link href="https://kaist-hacking.github.io/author/youngtae-yun/index.xml" rel="self" type="application/rss+xml" />
     <description>Youngtae Yun</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kaist-s4.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kaist-hacking.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Youngtae Yun</title>
-      <link>https://kaist-s4.github.io/author/youngtae-yun/</link>
+      <link>https://kaist-hacking.github.io/author/youngtae-yun/</link>
     </image>
     
     <item>
       <title>CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems</title>
-      <link>https://kaist-s4.github.io/publication/kim-cab-fuzz/</link>
+      <link>https://kaist-hacking.github.io/publication/kim-cab-fuzz/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/kim-cab-fuzz/</guid>
+      <guid>https://kaist-hacking.github.io/publication/kim-cab-fuzz/</guid>
       <description></description>
     </item>
     

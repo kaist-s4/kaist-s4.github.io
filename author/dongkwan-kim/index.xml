@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dongkwan Kim* | Hacking Lab</title>
-    <link>https://kaist-s4.github.io/author/dongkwan-kim/</link>
-      <atom:link href="https://kaist-s4.github.io/author/dongkwan-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kaist-hacking.github.io/author/dongkwan-kim/</link>
+      <atom:link href="https://kaist-hacking.github.io/author/dongkwan-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Dongkwan Kim*</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kaist-s4.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kaist-hacking.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dongkwan Kim*</title>
-      <link>https://kaist-s4.github.io/author/dongkwan-kim/</link>
+      <link>https://kaist-hacking.github.io/author/dongkwan-kim/</link>
     </image>
     
     <item>
-      <title>BaseSpec: Comparative Analysis of Baseband Software and Cellular (to appear)</title>
-      <link>https://kaist-s4.github.io/publication/kim-basespec/</link>
+      <title>BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols</title>
+      <link>https://kaist-hacking.github.io/publication/kim-basespec/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/kim-basespec/</guid>
+      <guid>https://kaist-hacking.github.io/publication/kim-basespec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyzing Security of Korean USIM-based PKI Certificate Service</title>
-      <link>https://kaist-s4.github.io/publication/park-pki/</link>
+      <link>https://kaist-hacking.github.io/publication/park-pki/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://kaist-s4.github.io/publication/park-pki/</guid>
+      <guid>https://kaist-hacking.github.io/publication/park-pki/</guid>
       <description></description>
     </item>
     
