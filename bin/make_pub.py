@@ -42,9 +42,9 @@ def read_bib():
             entry['title'] = title
             del entry['crossref']
 
-        url = entry.get('url')
+        url = entry.get('www-git')
         if url:
-            del entry['url']
+            del entry['www-git']
 
         parse_bibtex_entry(entry)
 
