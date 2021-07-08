@@ -1,3 +1,7 @@
+%% www-git    : code url
+%% www-git    : proj webpage
+%% award      : award
+
 %% 2021
 @InProceedings{wickman:ffmalloc,
   title         = {{Preventing Use-After-Free Attacks with Fast Forward Allocation (to appear)}},
@@ -6,24 +10,35 @@
 }
 
 @InProceedings{kim:basespec,
-  title         = {{BaseSpec: Comparative Analysis of Baseband Software and Cellular (to appear)}},
+  title         = {{BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols}},
   author        = {Eunsoo Kim* and Dongkwan Kim* and Cheoljun Park and Insu Yun and Yongdae Kim},
   crossref      = {NDSS21},
+  www-git       = "https://github.com/SysSec-KAIST/BaseSpec",
 }
 
+
 %% 2020
+@PhDThesis{yun:thesis,
+  title        = {{Concolic Execution Tailored for Hybrid Fuzzing}},
+  author       = {Insu Yun},
+  school       = {{Georgia Institute of Technology}},
+  year         = {2020},
+  address      = {Atlanta, GA},
+  month        = dec,
+}
+
 @InProceedings{yun:archeap,
   title         = {{Automatic Techniques to Systematically Discover New Heap Exploitation Primitives}},
   author        = {Insu Yun and Dhaval Kapil and Taesoo Kim},
   crossref      = {SEC20},
-  url           = "https://github.com/sslab-gatech/archeap",
+  www-git       = "https://github.com/sslab-gatech/archeap",
 }
 
 @InProceedings{jin:pwn2own2020-safari,
   title        = {{Compromising the macOS kernel through Safari by chaining six vulnerabilities}},
   author       = {Yonghwi Jin and Jungwon Lim and Insu Yun and Taesoo Kim},
   crossref     = {BLACKHAT20},
-  url          = "https://github.com/sslab-gatech/pwn2own2020",
+  www-git       = "https://github.com/sslab-gatech/pwn2own2020",
 }
 
 @InProceedings{park:die,
@@ -36,20 +51,22 @@
   title         = {{REPT: Reverse Debugging of Failures in Deployed Software}},
   author        = {Weidong Cui and Xinyang Ge and Baris Kasikci and Ben Niu and Upamanyu Sharma and Ruoyu Wang and Insu Yun},
   crossref      = {OSDI18},
+  award         = "Jay Lepreau Best Paper Award"
 }
 
 @InProceedings{yun:qsym,
   title         = {{QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing}},
   author        = {Insu Yun and Sangho Lee and Meng Xu and Yeongjin Jang and Taesoo Kim},
   crossref      = {SEC18},
-  url           = "https://github.com/sslab-gatech/qsym",
+  www-git       = "https://github.com/sslab-gatech/qsym",
+  award         = "Distinguished Paper Award"
 }
 
 @InProceedings{jung:avpass,
   title        = {{AVPASS: Leaking and Bypassing Antivirus Detection Model Automatically}},
   author       = {Jinho Jung and Chanil Jeon and Max Wolotsky and Insu Yun and Taesoo Kim},
   crossref     = {BLACKHAT17},
-  url          = "https://github.com/sslab-gatech/avpass",
+  www-git      = "https://github.com/sslab-gatech/avpass",
 }
 
 @InProceedings{kim:cab-fuzz,
@@ -59,17 +76,18 @@
 }
 
 @InProceedings{yun:apisan,
-  title       = {{APISan: Sanitizing API Usages through Semantic Cross-checking}},
-  author      = {Insu Yun and Changwoo Min and Xujie Si and Yeongjin Jang and Taesoo Kim and Mayur Naik},
-  crossref    = {SEC16},
-  url         = "https://github.com/sslab-gatech/apisan",
+  title         = {{APISan: Sanitizing API Usages through Semantic Cross-checking}},
+  author        = {Insu Yun and Changwoo Min and Xujie Si and Yeongjin Jang and Taesoo Kim and Mayur Naik},
+  crossref      = {SEC16},
+  www-git       = "https://github.com/sslab-gatech/apisan",
+  award         = "Nominated as a finalist in CSAW Best Applied Research Paper Award 2016"
 }
 
 @InProceedings{song:hdfi,
-  title       = {{HDFI: Hardware-Assisted Data-Fow Isolation}},
-  author      = {Chengyu Song and Hyungon Moon and Monjur Alam and Insu Yun and Byoungyoung Lee and Taesoo Kim and Wenke Lee and Yunheung Paek},
-  crossref    = {SP16},
-  url         = "https://github.com/sslab-gatech/hdfi",
+  title         = {{HDFI: Hardware-Assisted Data-Fow Isolation}},
+  author        = {Chengyu Song and Hyungon Moon and Monjur Alam and Insu Yun and Byoungyoung Lee and Taesoo Kim and Wenke Lee and Yunheung Paek},
+  crossref      = {SP16},
+  www-git       = "https://github.com/sslab-gatech/hdfi",
 }
 
 @InProceedings{park:pki,
@@ -82,4 +100,6 @@
   title         = {{Kargus: A Highly-scalable Software-based Intrusion Detection System}},
   author        = {Muhammad Jamshed and Jihyung Lee and Sangwoo Moon and Insu Yun and Deokjin Kim and Sungryoul Lee and Yung Yi and KyoungSoo Park},
   crossref      = {CCS12},
+  www-url       = "https://shader.kaist.edu/kargus/",
 }
+

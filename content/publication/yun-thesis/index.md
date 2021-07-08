@@ -1,20 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications
-  for L3 Protocols'
+title: Concolic Execution Tailored for Hybrid Fuzzing
 subtitle: ''
 summary: ''
 authors:
-- Eunsoo Kim*
-- Dongkwan Kim*
-- Cheoljun Park
 - Insu Yun
-- Yongdae Kim
 tags: []
 categories: []
-date: '2021-02-01'
-lastmod: 2021-07-08T13:28:33+09:00
+date: '2020-12-01'
+lastmod: 2021-07-08T13:27:18+09:00
 featured: false
 draft: false
 
@@ -32,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-08T04:28:33.530797Z'
+publishDate: '2021-07-08T04:27:18.362735Z'
 publication_types:
-- '0'
+- '7'
 abstract: ''
-publication: '*Proceedings of the 2021  Annual Network and Distributed System Security
-  Symposium (NDSS)*'
+publication: ''
 ---
